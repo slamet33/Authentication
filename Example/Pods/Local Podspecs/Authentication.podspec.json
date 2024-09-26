@@ -1,0 +1,22 @@
+{
+  "name": "Authentication",
+  "version": "0.1.0",
+  "summary": "A short description of Authentication.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/slametnoble/Authentication",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "slametnoble": "slametngeblog@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/slametnoble/Authentication.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Authentication/Classes/**/*"
+}
